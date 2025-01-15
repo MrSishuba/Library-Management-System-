@@ -43,7 +43,9 @@ The primary objective of this project is to demonstrate:
 - **PDF Export**: Newtonsoft.Json  
 
 ## Installation and Setup  
-1. Clone the repository:  
+1. Clone the repository: 
    ```bash
    git clone https://github.com/YourUsername/LibraryManagementSystem.git
-   --Change Machine name in Web.Config file for connection string
+
+
+  2.Change Data souce name to your machine name in Web.Config file
